@@ -1,8 +1,11 @@
 # MERN JWT
 
-A Simple Demonstration of Authentication using Json Web Token on MERN
-
-This Project is hosted on Render : 
+A Simple Demonstration of Authentication using Json Web Token on MERN which includes:
+- Signup
+- Login
+- Reset Password (through Email)
+- Email Verification
+- Protected Routes
 
 ## :star: Give A Star
 
@@ -37,5 +40,5 @@ You can also give this repository a star to show more people and they can use th
 </p>
 
 <p align="center">
-  <img src="https://github.com/omunite215/Project_MERN-Dashboard/assets/78680563/6a4b6fef-216b-4442-a621-8878405a1aa9" alt="Om's Logo Image"/>
+  <img src="https://github.com/user-attachments/assets/ec1e9924-898b-4e41-853b-fcc226afb56f" alt="Om's Logo Image"/>
 </p>
